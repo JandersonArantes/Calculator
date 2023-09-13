@@ -6,6 +6,7 @@
         {
             Menu();
             Console.WriteLine("Editado no GitHub Online!");
+            Console.WriteLine("Editado no VS Code");
         }
 
         static void Menu()
