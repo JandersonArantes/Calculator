@@ -5,6 +5,7 @@
         private static void Main(string[] args)
         {
             Menu();
+            Console.WriteLine("Editado no GitHub Online!");
         }
 
         static void Menu()
