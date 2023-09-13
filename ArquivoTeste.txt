@@ -1,0 +1,2 @@
+Foi criada uma nova Branch no VS Code, com o nome BranchDesenvolvimento.
+Em seguida, este arquivo, ArquivoTeste.txt, foi criado.
